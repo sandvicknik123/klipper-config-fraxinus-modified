@@ -1,0 +1,18 @@
+*.log
+*.gcode
+*.bin
+*.uf2
+*.dat
+klipper.log
+moonraker.log
+# Telegram bot secrets
+telegram.conf
+
+# Backup configs
+*.bkp
+
+# Klipper logs / temporary data
+*.log
+*.gz
+
+moonraker.conf
